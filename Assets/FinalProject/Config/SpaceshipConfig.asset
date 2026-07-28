@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27def529366b17a46a403b0d3c308791, type: 3}
+  m_Name: SpaceshipConfig
+  m_EditorClassIdentifier: 
+  _health: 100
+  _movementSpeed: 12.5
+  _rotationSpeed: 50
+  _maxMovementSpeed: 20
+  _movementSpeedBoostDuration: 15
+  _movementSpeedBoostRechargeTime: 10
+  _attackDamage: 15
+  _maxMissileLaunchCount: 100
+  _missileLaunchEnergyRechargeRate: 2
