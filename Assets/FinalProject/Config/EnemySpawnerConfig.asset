@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9ea6a4f171be3408a44d111ba33721, type: 3}
+  m_Name: EnemySpawnerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpawnerConfig
+  _enemySpawnFrequency: 10
+  _enemyTypes:
+  - {fileID: 7008135476825653586, guid: e4a02611bde16ec4dbb04388c37f0d50, type: 3}
+  - {fileID: 8122381699935699508, guid: 8457b1724a287b142a815c8241cd2402, type: 3}
