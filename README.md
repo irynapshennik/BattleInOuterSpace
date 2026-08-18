@@ -3,14 +3,19 @@
 </p>
 Final project for the "Unity Developer" course by Skillbox.
 
-## Plot
-The spaceship drifts through an anomalous zone that affects its energy batteries. Suddenly, enemies begin to appear out of nowhere. With limited energy for attacks and speed boosts, try to survive as long as possible. Good luck!
+## Overview
+Top-down shooter game prototype in which the player controls a spaceship fighting endless waves of enemies.
 
-## Gameplay Tips
-- Use "A" and "D" to maneuver.
-- Left-click to shoot.
-- Press "Space" to speed up and shake off the enemies.
-- Energy for shooting and speed boosts is restored over time.
+## Implemented Systems and Mechanics
+<ul>
+  <li>Player movement, health, and combat;</li>
+  <li>Trigger-based enemy spawning;</li>
+  <li>Enemy pursuit and attack;</li>
+  <li>Game score.</li>
+</ul>
+
+## Playable Build
+[itch.io](https://irynapshennik.itch.io/battle-in-outer-space?secret=IJvzWZyUeSPohs6akMISxxtdZLw)
 
 ## Screenshots
 <table>
